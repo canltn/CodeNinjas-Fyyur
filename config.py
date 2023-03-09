@@ -10,4 +10,5 @@ DEBUG = True
 
 
 # TODO IMPLEMENT DATABASE URL
-SQLALCHEMY_DATABASE_URI = 'postgresql://canltn:7wxrtYXlU2vG@ep-black-art-863315.us-east-2.aws.neon.tech/fyyur?sslmode=require&options=project%3Dtiny-rain-632318'
+SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:12345@localhost:5432/postgres'
+#SQLALCHEMY_DATABASE_URI = 'postgresql://canltn:7wxrtYXlU2vG@ep-black-art-863315.us-east-2.aws.neon.tech/fyyur?sslmode=require&options=project%3Dtiny-rain-632318'
